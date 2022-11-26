@@ -5,4 +5,4 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover and focus states for interactive elements
 
-![Screenshot](images/Screenshot-2022-11-26-at-12-16-01-Frontend-Mentor-Product preview-card-component.png)
+![Screenshot] In images folder
